@@ -1,0 +1,17 @@
+.main {
+    text-align: center;
+}
+
+.green {
+    color: green;
+}
+
+#star-container {
+    display: flex;
+    font-size: 55px;
+    padding: 0px;
+    margin: 0px;
+    color: rgb(232, 235, 229);
+    align-items: center;
+    justify-content: center;
+}
